@@ -8,3 +8,4 @@ Hand-On exercises for "Data Analysis with Python" course.
 
 ***model-development - Model Development (Linear Regression, Multiple Linear Regression), Model Evaluation Using Visualization (Regression                        Plot, Residual Plot, Distribution Plot), Polynomial Regression and Pipelines, Measures for In-Sample                                      Evaluation(R^2/R-Squared, MSE) 
   
+***model-evaluation-and-refinement - Train_Test_Split, Reduced Generalization Error (Cross_Validation), Overfitting, Underfitting, Ridge                                        Regression, Grid Search
