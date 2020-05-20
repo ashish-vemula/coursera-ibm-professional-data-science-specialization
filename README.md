@@ -1,2 +1,2 @@
 # data-science
-A professional certificate course from coursera
+A professional certification course from coursera
